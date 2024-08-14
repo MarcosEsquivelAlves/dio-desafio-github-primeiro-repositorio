@@ -1,0 +1,14 @@
+Link do Git
+Git: https://git-scm.com/
+
+Link do GitHub
+GitHub: https://github.com/
+
+Link do site da Dio
+DIO (Digital Innovation One): https://www.dio.me/
+
+Link do C#
+C# (Documentação Oficial da Microsoft): https://learn.microsoft.com/pt-br/dotnet/csharp/
+
+Link do VsCode
+VS Code (Visual Studio Code): https://code.visualstudio.com/
